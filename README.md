@@ -1,4 +1,4 @@
-[gist.cafe](https://gist.cafe) utils for Elixir
+Useful [gist.cafe](https://gist.cafe) utils for Elixir
 
 ## Installation
 
@@ -52,7 +52,7 @@ Which outputs:
 Top 3 elixir-lang GitHub Repos:
 [
   {
-    description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications,
+    description: Elixir is a dynamic, functional language designed for building scalable apps,
     forks: 2606,
     lang: Elixir,
     name: elixir,
